@@ -1,7 +1,7 @@
 [
   {
     "BrandId":"9999001",
-    "BrandName":"Adriamycin® (Doxorubicin)",
+    "BrandName":"Adriamycin",
     "Country":"Denmark",
     "CountryCode":"DK",
     "Language":"Danish",
@@ -23,7 +23,7 @@
   },
   {
     "BrandId":"9999004",
-    "BrandName":"Aricept® (Donepezil)",
+    "BrandName":"Aricept",
     "Country":"Denmark",
     "CountryCode":"DK",
     "Language":"Danish",
@@ -34,7 +34,7 @@
   },
   {
     "BrandId":"9999005",
-    "BrandName":"Aromasin® (Exemestan)",
+    "BrandName":"Aromasin",
     "Country":"Denmark",
     "CountryCode":"DK",
     "Language":"Danish",
@@ -45,7 +45,7 @@
   },
   {
     "BrandId":"9999006",
-    "BrandName":"Arthrotec® (Diclofenac + Misoprostol)",
+    "BrandName":"Arthrotec",
     "Country":"Denmark",
     "CountryCode":"DK",
     "Language":"Danish",
@@ -56,7 +56,7 @@
   },
   {
     "BrandId":"9999007",
-    "BrandName":"Cabaser® (Cabergolin)",
+    "BrandName":"Cabaser",
     "Country":"Denmark",
     "CountryCode":"DK",
     "Language":"Danish",
@@ -67,7 +67,7 @@
   },
   {
     "BrandId":"9999008",
-    "BrandName":"Carduran® Retard (Doxazosin)",
+    "BrandName":"Carduran",
     "Country":"Denmark",
     "CountryCode":"DK",
     "Language":"Danish",
@@ -78,7 +78,7 @@
   },
   {
     "BrandId":"9999009",
-    "BrandName":"Caverject® Dual (Alprostadil)",
+    "BrandName":"Caverject",
     "Country":"Denmark",
     "CountryCode":"DK",
     "Language":"Danish",
@@ -89,7 +89,7 @@
   },
   {
     "BrandId":"9999010",
-    "BrandName":"Celebra® (Celecoxib)",
+    "BrandName":"Celebra",
     "Country":"Denmark",
     "CountryCode":"DK",
     "Language":"Danish",
@@ -100,7 +100,7 @@
   },
   {
     "BrandId":"9999011",
-    "BrandName":"Celecoxib Pfizer® (Celecoxib)",
+    "BrandName":"Celecoxib Pfizer",
     "Country":"Denmark",
     "CountryCode":"DK",
     "Language":"Danish",
@@ -111,7 +111,7 @@
   },
   {
     "BrandId":"9999012",
-    "BrandName":"Contalgin® (Morphinsulfat)",
+    "BrandName":"Contalgin",
     "Country":"Denmark",
     "CountryCode":"DK",
     "Language":"Danish",
@@ -133,7 +133,7 @@
   },
   {
     "BrandId":"9999014",
-    "BrandName":"Cytotec® (Misoprostol)",
+    "BrandName":"Cytotec",
     "Country":"Denmark",
     "CountryCode":"DK",
     "Language":"Danish",
@@ -144,7 +144,7 @@
   },
   {
     "BrandId":"9999015",
-    "BrandName":"Dalacin® (Clindamycin)",
+    "BrandName":"Dalacin",
     "Country":"Denmark",
     "CountryCode":"DK",
     "Language":"Danish",
@@ -155,7 +155,7 @@
   },
   {
     "BrandId":"9999053",
-    "BrandName":"Depo-Medrol® (methylprednisolonacetat)",
+    "BrandName":"Depo-Medrol",
     "Country":"Denmark",
     "CountryCode":"DK",
     "Language":"Danish",
@@ -166,7 +166,7 @@
   },
   {
     "BrandId":"9999017",
-    "BrandName":"Depo-Provera® (Medroxyprogesteronacetat)",
+    "BrandName":"Depo-Provera",
     "Country":"Denmark",
     "CountryCode":"DK",
     "Language":"Danish",
@@ -177,7 +177,7 @@
   },
   {
     "BrandId":"9999018",
-    "BrandName":"Detrusitol® Retard (Tolterodin)",
+    "BrandName":"Detrusitol",
     "Country":"Denmark",
     "CountryCode":"DK",
     "Language":"Danish",
@@ -188,7 +188,7 @@
   },
   {
     "BrandId":"9999019",
-    "BrandName":"Diflucan® (Fluconazol)",
+    "BrandName":"Diflucan",
     "Country":"Denmark",
     "CountryCode":"DK",
     "Language":"Danish",
@@ -199,7 +199,7 @@
   },
   {
     "BrandId":"9999020",
-    "BrandName":"Dostinex® (Cabergolin)",
+    "BrandName":"Dostinex",
     "Country":"Denmark",
     "CountryCode":"DK",
     "Language":"Danish",
@@ -210,7 +210,7 @@
   },
   {
     "BrandId":"9999021",
-    "BrandName":"Dynastat® (Parecoxib)",
+    "BrandName":"Dynastat",
     "Country":"Denmark",
     "CountryCode":"DK",
     "Language":"Danish",
@@ -221,7 +221,7 @@
   },
   {
     "BrandId":"9999022",
-    "BrandName":"Ecalta® (Anidulafungin)",
+    "BrandName":"Ecalta",
     "Country":"Denmark",
     "CountryCode":"DK",
     "Language":"Danish",
@@ -232,7 +232,7 @@
   },
   {
     "BrandId":"9999023",
-    "BrandName":"Edronax® (reboxetin)",
+    "BrandName":"Edronax",
     "Country":"Denmark",
     "CountryCode":"DK",
     "Language":"Danish",
@@ -254,7 +254,7 @@
   },
   {
     "BrandId":"9999025",
-    "BrandName":"Estracyt® (Estramustin)",
+    "BrandName":"Estracyt",
     "Country":"Denmark",
     "CountryCode":"DK",
     "Language":"Danish",
@@ -276,7 +276,7 @@
   },
   {
     "BrandId":"9999026",
-    "BrandName":"Felden® Gel (Piroxicam)",
+    "BrandName":"Felden",
     "Country":"Denmark",
     "CountryCode":"DK",
     "Language":"Danish",
@@ -287,7 +287,7 @@
   },
   {
     "BrandId":"9999027",
-    "BrandName":"Flurablastin® (fluoruracil)",
+    "BrandName":"Flurablastin",
     "Country":"Denmark",
     "CountryCode":"DK",
     "Language":"Danish",
@@ -309,7 +309,7 @@
   },
   {
     "BrandId":"9999028",
-    "BrandName":"Gabapentin Pfizer® (Gabapentin)",
+    "BrandName":"Gabapentin Pfizer",
     "Country":"Denmark",
     "CountryCode":"DK",
     "Language":"Danish",
@@ -320,7 +320,7 @@
   },
   {
     "BrandId":"9999029",
-    "BrandName":"Halcion® (Triazolam)",
+    "BrandName":"Halcion",
     "Country":"Denmark",
     "CountryCode":"DK",
     "Language":"Danish",
@@ -342,7 +342,7 @@
   },
   {
     "BrandId":"9999031",
-    "BrandName":"Hydrocortison med Terramycin",
+    "BrandName":"Hydrocortison",
     "Country":"Denmark",
     "CountryCode":"DK",
     "Language":"Danish",
@@ -353,7 +353,7 @@
   },
   {
     "BrandId":"9999032",
-    "BrandName":"Inspra® (Eplerenon)",
+    "BrandName":"Inspra",
     "Country":"Denmark",
     "CountryCode":"DK",
     "Language":"Danish",
@@ -364,7 +364,7 @@
   },
   {
     "BrandId":"9999033",
-    "BrandName":"Isovorin® (Levofolinsyre som calciumlevofolin)",
+    "BrandName":"Isovorin",
     "Country":"Denmark",
     "CountryCode":"DK",
     "Language":"Danish",
@@ -375,7 +375,7 @@
   },
   {
     "BrandId":"9999034",
-    "BrandName":"Ketogan® (Ketobemidon)",
+    "BrandName":"Ketogan",
     "Country":"Denmark",
     "CountryCode":"DK",
     "Language":"Danish",
@@ -386,7 +386,7 @@
   },
   {
     "BrandId":"9999035",
-    "BrandName":"Latanoprost/Timolol Pfizer® (Latanoprost/timololmaleat)",
+    "BrandName":"Latanoprost Timolol",
     "Country":"Denmark",
     "CountryCode":"DK",
     "Language":"Danish",
@@ -397,7 +397,7 @@
   },
   {
     "BrandId":"9999036",
-    "BrandName":"Lestid® (Colestipol)",
+    "BrandName":"Lestid",
     "Country":"Denmark",
     "CountryCode":"DK",
     "Language":"Danish",
@@ -408,7 +408,7 @@
   },
   {
     "BrandId":"9999038",
-    "BrandName":"Lopid® (Gemfibrozil)",
+    "BrandName":"Lopid",
     "Country":"Denmark",
     "CountryCode":"DK",
     "Language":"Danish",
@@ -441,7 +441,7 @@
   },
   {
     "BrandId":"9999040",
-    "BrandName":"Methotrexate Pfizer (methotrexat)",
+    "BrandName":"Methotrexate \"Pfizer\"",
     "Country":"Denmark",
     "CountryCode":"DK",
     "Language":"Danish",
@@ -452,7 +452,7 @@
   },
   {
     "BrandId":"9999041",
-    "BrandName":"Mindiab® (Glipizid)",
+    "BrandName":"Mindiab",
     "Country":"Denmark",
     "CountryCode":"DK",
     "Language":"Danish",
@@ -463,7 +463,7 @@
   },
   {
     "BrandId":"9999042",
-    "BrandName":"Mini-Pe® (Norethisteron)",
+    "BrandName":"Mini-Pe",
     "Country":"Denmark",
     "CountryCode":"DK",
     "Language":"Danish",
@@ -474,7 +474,7 @@
   },
   {
     "BrandId":"9999043",
-    "BrandName":"Minprostin® (Dinoproston)",
+    "BrandName":"Minprostin",
     "Country":"Denmark",
     "CountryCode":"DK",
     "Language":"Danish",
@@ -496,7 +496,7 @@
   },
   {
     "BrandId":"9999045",
-    "BrandName":"Norvasc® (Amlodipin Besylat)",
+    "BrandName":"Norvasc",
     "Country":"Denmark",
     "CountryCode":"DK",
     "Language":"Danish",
@@ -507,7 +507,7 @@
   },
   {
     "BrandId":"9999046",
-    "BrandName":"Olbetam® (Acipimox)",
+    "BrandName":"Olbetam",
     "Country":"Denmark",
     "CountryCode":"DK",
     "Language":"Danish",
@@ -529,7 +529,7 @@
   },
   {
     "BrandId":"9999047",
-    "BrandName":"Prostinfenem® (Carboprost)",
+    "BrandName":"Prostinfenem",
     "Country":"Denmark",
     "CountryCode":"DK",
     "Language":"Danish",
@@ -540,7 +540,7 @@
   },
   {
     "BrandId":"9999048",
-    "BrandName":"Prostivas® (Alprostadil)",
+    "BrandName":"Prostivas",
     "Country":"Denmark",
     "CountryCode":"DK",
     "Language":"Danish",
@@ -551,7 +551,7 @@
   },
   {
     "BrandId":"9999049",
-    "BrandName":"Provera® (Medroxyprogesteronacetat)",
+    "BrandName":"Provera",
     "Country":"Denmark",
     "CountryCode":"DK",
     "Language":"Danish",
@@ -595,7 +595,7 @@
   },
   {
     "BrandId":"9999052",
-    "BrandName":"Salazopyrin® (Sulfasalazin)",
+    "BrandName":"Salazopyrin",
     "Country":"Denmark",
     "CountryCode":"DK",
     "Language":"Danish",
@@ -606,7 +606,7 @@
   },
   {
     "BrandId":"9999090",
-    "BrandName":"Sildenafil Pfizer® (Sildenafil)",
+    "BrandName":"Sildenafil Pfizer",
     "Country":"Denmark",
     "CountryCode":"DK",
     "Language":"Danish",
@@ -617,7 +617,7 @@
   },
   {
     "BrandId":"9999054",
-    "BrandName":"Sinquan® (Doxepin)",
+    "BrandName":"Sinquan",
     "Country":"Denmark",
     "CountryCode":"DK",
     "Language":"Danish",
@@ -650,7 +650,7 @@
   },
   {
     "BrandId":"99990551",
-    "BrandName":"Solu-Medrol® (Methylprednisolon)",
+    "BrandName":"Solu-Medrol",
     "Country":"Denmark",
     "CountryCode":"DK",
     "Language":"Danish",
@@ -661,7 +661,7 @@
   },
   {
     "BrandId":"99990561",
-    "BrandName":"Synarela® (Nafarelin)",
+    "BrandName":"Synarela",
     "Country":"Denmark",
     "CountryCode":"DK",
     "Language":"Danish",
@@ -672,7 +672,7 @@
   },
   {
     "BrandId":"99990571",
-    "BrandName":"Tafil® (Alprazolam)",
+    "BrandName":"Tafil",
     "Country":"Denmark",
     "CountryCode":"DK",
     "Language":"Danish",
@@ -705,7 +705,7 @@
   },
   {
     "BrandId":"9999060",
-    "BrandName":"Tenoretic® (Atenolol + chlortalidon)",
+    "BrandName":"Tenoretic og Tenoretic Mite",
     "Country":"Denmark",
     "CountryCode":"DK",
     "Language":"Danish",
@@ -716,7 +716,7 @@
   },
   {
     "BrandId":"9999061",
-    "BrandName":"Tenormin® (Atenolol)",
+    "BrandName":"Tenormin",
     "Country":"Denmark",
     "CountryCode":"DK",
     "Language":"Danish",
@@ -727,7 +727,7 @@
   },
   {
     "BrandId":"9999062",
-    "BrandName":"Terramycin-Polymyxin B® (Oxytetracyclin + polymyxin B)",
+    "BrandName":"Terramycin m. polymyxin",
     "Country":"Denmark",
     "CountryCode":"DK",
     "Language":"Danish",
@@ -738,7 +738,7 @@
   },
   {
     "BrandId":"9999063",
-    "BrandName":"Tolterodin Pfizer® (Tolterodin)",
+    "BrandName":"Tolterodin Pfizer",
     "Country":"Denmark",
     "CountryCode":"DK",
     "Language":"Danish",
@@ -760,7 +760,7 @@
   },
   {
     "BrandId":"9999064",
-    "BrandName":"Tygacil (Tigecycline)",
+    "BrandName":"Tygacil",
     "Country":"Denmark",
     "CountryCode":"DK",
     "Language":"Danish",
@@ -771,7 +771,7 @@
   },
   {
     "BrandId":"9999065",
-    "BrandName":"Vfend® (Voriconazol)",
+    "BrandName":"Vfend",
     "Country":"Denmark",
     "CountryCode":"DK",
     "Language":"Danish",
@@ -782,7 +782,7 @@
   },
   {
     "BrandId":"9999066",
-    "BrandName":"Viagra® (Sildenafil)",
+    "BrandName":"Viagra",
     "Country":"Denmark",
     "CountryCode":"DK",
     "Language":"Danish",
@@ -793,7 +793,7 @@
   },
   {
     "BrandId":"9999067",
-    "BrandName":"Xalatan® (Latanoprost)",
+    "BrandName":"Xalatan",
     "Country":"Denmark",
     "CountryCode":"DK",
     "Language":"Danish",
@@ -804,7 +804,7 @@
   },
   {
     "BrandId":"9999068",
-    "BrandName":"Xalcom® (Latanoprost + Timolol)",
+    "BrandName":"Xalcom",
     "Country":"Denmark",
     "CountryCode":"DK",
     "Language":"Danish",
@@ -815,7 +815,7 @@
   },
   {
     "BrandId":"9999069",
-    "BrandName":"Zarator® (Atorvastatin)",
+    "BrandName":"Zarator",
     "Country":"Denmark",
     "CountryCode":"DK",
     "Language":"Danish",
@@ -826,7 +826,7 @@
   },
   {
     "BrandId":"9999070",
-    "BrandName":"Zavedos® (Idarubicin)",
+    "BrandName":"Zavedos",
     "Country":"Denmark",
     "CountryCode":"DK",
     "Language":"Danish",
@@ -837,7 +837,7 @@
   },
   {
     "BrandId":"9999071",
-    "BrandName":"Zeldox® (Ziprasidon)",
+    "BrandName":"Zeldox",
     "Country":"Denmark",
     "CountryCode":"DK",
     "Language":"Danish",
@@ -848,7 +848,7 @@
   },
   {
     "BrandId":"9999072",
-    "BrandName":"Ziprasidon® (Ziprasidon)",
+    "BrandName":"Ziprasidon",
     "Country":"Denmark",
     "CountryCode":"DK",
     "Language":"Danish",
@@ -859,7 +859,7 @@
   },
   {
     "BrandId":"9999073",
-    "BrandName":"Zitromax® (Azitromyzin)",
+    "BrandName":"Zitromax",
     "Country":"Denmark",
     "CountryCode":"DK",
     "Language":"Danish",
@@ -870,7 +870,7 @@
   },
   {
     "BrandId":"9999074",
-    "BrandName":"Zok-Zid® (Metoprololsuccinat)",
+    "BrandName":"Zok-Zid",
     "Country":"Denmark",
     "CountryCode":"DK",
     "Language":"Danish",
@@ -881,7 +881,7 @@
   },
   {
     "BrandId":"9999075",
-    "BrandName":"Zoloft® (Sertralin)",
+    "BrandName":"Zoloft",
     "Country":"Denmark",
     "CountryCode":"DK",
     "Language":"Danish",
@@ -892,7 +892,7 @@
   },
   {
     "BrandId":"9999076",
-    "BrandName":"Zyvoxid® (Linezolid)",
+    "BrandName":"Zyvoxid",
     "Country":"Denmark",
     "CountryCode":"DK",
     "Language":"Danish",
